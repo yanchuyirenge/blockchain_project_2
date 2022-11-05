@@ -1,7 +1,5 @@
 # ZJU-blockchain-course-2022
 
-⬆ 可以️修改成你自己的项目名。
-
 > 第二次作业要求（可以删除）：
 >
 > 去中心化学生社团组织治理应用
@@ -128,4 +126,3 @@ function get() public returns(Proposal[] memory)
 ## 参考内容
 
 课程的参考Demo见：[DEMOs](https://github.com/LBruyne/blockchain-course-demos)。
-# blockchain_project_2
